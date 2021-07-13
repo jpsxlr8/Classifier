@@ -8,4 +8,4 @@ We need these dependencies:<br>
   <li>pip install scikit-learn</li><br>
   <li>pip install streamlit</li><br>
 <b> Run</b><br>
-<i>streamlit run min.py</i>
+<i>streamlit run main.py</i>
