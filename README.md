@@ -4,8 +4,8 @@ A webapp built using streamlit which lets us to compare different classifiers an
 <b> Installation</b><br>
 We need these dependencies:<br>
 <ul>
-  <li>```pip``` install matplotlib</li><br>
-  <li>```pip``` install scikit-learn</li><br>
-  <li>```pip``` install streamlit</li><br>
+  <li>pip install matplotlib</li><br>
+  <li>pip install scikit-learn</li><br>
+  <li>pip install streamlit</li><br>
 <b> Run</b><br>
 <i>streamlit run main.py</i>
