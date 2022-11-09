@@ -10,6 +10,6 @@ pip install matplotlib
 pip install scikit-learn
 pip install streamlit
 ```
-`Run`
+## `Run`
 
 <i>streamlit run `main.py`</i>
